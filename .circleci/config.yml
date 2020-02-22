@@ -3,10 +3,9 @@ orbs:
   node: circleci/node@1.1.6
 jobs:
   build:
-    filters:
-      branches:
-        only:
-          - content
+    branches:
+      only:
+        - content
     executor:
       name: node/default
     steps:
