@@ -1,7 +1,7 @@
 ---
 date: 2019-06-07
 title: Gridsome with Forestry CMS
-author: Nichlas W. Andersen
+author: Ethan Katzenberg
 excerpt: Get up and running with Forestry CMS, a git-backed headless CMS with a slick
   editing interface.
 
@@ -14,7 +14,7 @@ Another small edit
 
 It comes with a slick user interface that empower editors to edit CommmonMark, YAML and JSON files.
 
-Forestry UI was designed by **Nichlas W. Andersen**.
+Forestry UI was designed by **Ethan Katzenberg**.
 
 You can import this starter to Forestry and start editing and creating posts or projects right away.
 

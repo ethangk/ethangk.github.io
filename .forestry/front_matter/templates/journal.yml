@@ -32,9 +32,9 @@ fields:
       file: data/authors/nichlas-w-andersen.json
     required: true
     options:
-    - Nichlas W. Andersen
+    - Ethan Katzenberg
   label: Author
-  default: Nichlas W. Andersen
+  default: Ethan Katzenberg
 pages:
 - journal/a-test-post-with-code.md
 - journal/macos-development-environment.md

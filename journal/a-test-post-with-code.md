@@ -1,6 +1,6 @@
 ---
 date: 2020-02-22
-author: Nichlas W. Andersen
+author: Ethan Katzenberg
 title: A test post with code
 excerpt: Analysis on DayOne
 
