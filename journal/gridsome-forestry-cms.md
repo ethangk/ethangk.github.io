@@ -10,6 +10,8 @@ excerpt: Get up and running with Forestry CMS, a git-backed headless CMS with a 
 
 [Forestry](https://forestry.io) is a git-based headless CMS that allow editorial teams to work on JAMstack sites.
 
+Another small edit
+
 It comes with a slick user interface that empower editors to edit CommmonMark, YAML and JSON files.
 
 Forestry UI was designed by **Nichlas W. Andersen**.
