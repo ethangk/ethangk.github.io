@@ -1,8 +1,9 @@
 ---
 date: 2019-06-07
 title: Gridsome with Forestry CMS
-author: Ethan Katzenberg
-excerpt: Get up and running with Forestry CMS, a git-backed headless CMS with a slick editing interface.
+author: Nichlas W. Andersen
+excerpt: Get up and running with Forestry CMS, a git-backed headless CMS with a slick
+  editing interface.
 
 ---
 #### Use Forestry as a CMS for Gridsome
