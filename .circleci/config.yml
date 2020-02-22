@@ -10,8 +10,8 @@ jobs:
       - node/with-cache:
           steps:
             - run: |
-              git config user.email "ethangk@gmail.com"
-              git config user.name "Ethan Katzenberg"
+                git config user.email "ethangk@gmail.com"
+                git config user.name "Ethan Katzenberg"
             - run: npm run predeploy
             - run: npm run deploy
 workflows:
